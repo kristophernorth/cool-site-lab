@@ -1,0 +1,32 @@
+:root {
+  --ocean: darkblue;
+  --sky: blue;
+  --cloud: white;
+  --lightninig: yellow;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+header {
+  display: flex;
+}
+
+header nav {
+  display: flex;
+}
+
+main {
+  display: flex;
+  background-color: darkblue;
+}
+
+footer {
+  display: flex;
+}
+
+nav {
+  height: 400px;
+  background-color: red;
+}
